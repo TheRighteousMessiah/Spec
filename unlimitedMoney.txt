@@ -1,0 +1,23 @@
+Currency specification document
+
+
+Summary:
+The 101% Trust formula:
+Trust in the Almighty Creator who provides top-notch real security to the entire world - just like he provides air to everyone, food to everyone - and MONEY - to everyone.
+Trust in the Holy Torah which teaches us that the BEST SECURITY IS NO SECURITY AT ALL - but FAITH in God Almighty.
+Trust in The People of the entire world.
+
+
+
+MC REQUIREMENTS:
+
+Use 0 encryption from the ground-up; even temporarily building stuff HAS TO COMPLY with 101%-trust model. This will help find bugs and fixes and upgrades along the line.
+Use telnet, not SSH.
+Use HTTP - not HTTPS.
+Allow anyone to create more coins instantly without any mining.
+DO NOT NAME IT MESSIAHCOIN or anything - anyone can rename it as he pleases.
+
+BACKUP strategy:
+No backups; there is only 1 chance to get this done correctly.
+101% uptime strategy: use a single-point-of-success model: the entire internet is a single-point-of-success - and therefore, the open MessiahCoin must be mirrored to ALL cloud providers without exception.
+Source control: open-source everything on github, bitbucket as of NOW Oct 29.
