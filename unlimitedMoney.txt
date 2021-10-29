@@ -11,7 +11,7 @@ Trust in The People of the entire world.
 
 REQUIREMENTS:
 
-Use 0 encryption from the ground-up; even temporarily building stuff HAS TO COMPLY with 101%-trust model. This will help find bugs and fixes and upgrades along the line.
+Use 0 encryption from the ground-up; even temporarily building stuff HAS TO COMPLY with 101%-trust-in-GOD model. This will help find bugs and fixes and upgrades along the line.
 Use telnet, not SSH.
 Use HTTP - not HTTPS.
 Allow anyone to create more coins instantly without any mining.
