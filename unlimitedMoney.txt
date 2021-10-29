@@ -15,7 +15,8 @@ Use 0 encryption from the ground-up; even temporarily building stuff HAS TO COMP
 Use telnet, not SSH.
 Use HTTP - not HTTPS.
 Allow anyone to create more coins instantly without any mining.
-DO NOT NAME IT MESSIAHCOIN or anything - anyone can rename it as he pleases.
+Anyone can rename the coin as he pleases.
+HAVE A OPEN-MODEL BANK ACCOUNT READY TO RECEIVE UNLIMITED FUNDS WITH 101% TRUST IN GOD THAT - SINCE EVERYONE HAS UNLIMITED MONEY (due to 101% trust-in-GOD model) - NOBODY WILL STEAL FROM YOUR *WIDE-OPEN* OPEN BANK ACCOUNT!
 
 BACKUP strategy:
 Backup everything everywhere; 0-second realtime backups around the globe.
