@@ -18,6 +18,6 @@ Allow anyone to create more coins instantly without any mining.
 DO NOT NAME IT MESSIAHCOIN or anything - anyone can rename it as he pleases.
 
 BACKUP strategy:
-No backups; there is only 1 chance to get this done correctly.
+Backup everything everywhere; 0-second realtime backups around the globe.
 101% uptime strategy: use a single-point-of-success model: the entire internet is a single-point-of-success - and therefore, the open MessiahCoin must be mirrored to ALL cloud providers without exception.
 Source control: open-source everything on github, bitbucket as of NOW Oct 29.
